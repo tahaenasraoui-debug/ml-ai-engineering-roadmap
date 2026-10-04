@@ -3,8 +3,6 @@
 ![Python](https://img.shields.io/badge/python-3.11+-blue.svg)
 ![Type Checked](https://img.shields.io/badge/types-mypy%20strict-informational.svg)
 ![Tests](https://img.shields.io/badge/tests-pytest-success.svg)
-![Status](https://img.shields.io/badge/status-in%20progress-orange.svg)
-![Stages](https://img.shields.io/badge/stages-0--5-lightgrey.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 
 A personal, build-first path from calculus and Python basics to deep learning and applied AI. Concise primers sit next to core textbooks. No semester-long lecture playlists.
